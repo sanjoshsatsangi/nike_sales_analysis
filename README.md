@@ -17,7 +17,8 @@ The objective of this dashboard is to:
 
 ## Dashboard Preview
 
-![Nike Sales Dashboard](Nike%20Sales.jpg)
+![Nike Sales Dashboard]<img width="4150" height="2400" alt="Nike Sales" src="https://github.com/user-attachments/assets/62303217-82dd-4c94-b871-45aac082a670" />
+
 
 ---
 
