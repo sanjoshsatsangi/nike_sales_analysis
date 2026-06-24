@@ -1,4 +1,4 @@
-# Nike Sales Analysis Dashboard | Power BI
+# Nike Sales Analysis Dashboard
 
 ## Overview
 
