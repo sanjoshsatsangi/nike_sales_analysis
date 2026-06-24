@@ -105,7 +105,7 @@ Users can filter data by:
 
 ## Project Files
 
-- Nike Sales Analysis Dashboard.pbix
+- Nike Sales.pbix
 - Dashboard Screenshot
 - README Documentation
 
@@ -113,6 +113,4 @@ Users can filter data by:
 
 ## Author
 
-**Sanjosh**
-- B.Tech Electronics & Communication Engineering
-- IIIT Bhopal
+**Sanjosh Satsangi**
